@@ -33,6 +33,6 @@ while continue == 'y'
   game.play
   
   puts "Would you like to play again? (y/n)"
-  answer = gets
+  continue = gets
   
 end

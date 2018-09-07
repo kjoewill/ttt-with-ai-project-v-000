@@ -9,5 +9,5 @@ module Players
       brain = ComputerBrain.new
       brain.move(board)
     end
-    
+  end
 end
